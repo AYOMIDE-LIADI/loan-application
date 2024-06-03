@@ -1,0 +1,113 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #27262C;
+}
+.firstdiv{
+    display: flex;
+    gap: 150px;
+    margin-left: 170px;
+}
+.yellow{
+    height: 70px;
+}
+.holder{
+    height: 120vh;
+    color: white;
+}
+.selectholder{
+    margin-left: 18px;
+}
+.header{
+    color:white;
+    margin-left: 170px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 14px;
+}
+.label3{
+    font-size: 26px;  
+    margin-left: -34px;
+}
+.placeholder3{
+    border-radius: 20px;
+    padding: 8px;
+    width: 180px;
+    margin-left: 25px;
+
+}
+.placeholder{
+    border-radius: 20px;
+    padding: 8px;
+}
+.label2{
+    font-size: 26px;  
+    margin-right: 50px;
+}
+.placeholder2{
+    border-radius: 20px;
+    padding: 8px;
+    width: 40%;
+    margin-left: -20px;
+}
+.label5{
+    font-size: 26px;
+    margin-left: -18px;
+}
+.placeholder5{
+    border-radius: 20px;
+    margin-top: 20px;
+    height: 30px;
+    margin-left: 30px;  
+}
+.label6{
+    margin-left: 450px;
+    font-size: 26px;  
+}
+.textholder{
+    display: flex;
+}
+.text1{
+    margin-left: 165px ;
+    font-size: 26px;
+}
+.block{
+    border-radius: 20px;
+    margin-top: 27px;
+    height: 30px;
+    margin-left: 5px;  
+}
+.label{
+    font-size: 26px;  
+}
+.flex{
+    display: flex;
+}
+.error{
+    border:  1px solid red;
+}
+.error_msg{
+    color: red;
+    font-size: 11px;
+    display: none;
+}
+.main div{
+    margin-top: 40px;
+
+}
+.placeholderrr{
+    margin: 23px;
+    border-radius: 30px;
+    width: 30%;
+    margin-left: 40px;
+}
+.submit{
+    background-color:red ;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 7px;
+    margin-left: 540px;
+    font-size: 26px;  
+}
